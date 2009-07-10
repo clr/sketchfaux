@@ -1,0 +1,27 @@
+* need to set up an event pool to control the 'disabled' state of buttons like 'undo' and 'stop'.
+
+* I added the latest jQuery, and am converting the prototype from XUL to HTML.
+
+* Relying on 3rd-party lib/vendor/colorpickers for the colorpicker [ Stefan Petre, www.eyecon.ro ] and for the overall theme inspiration.
+
+* JSON is a native object in Firefox3.5!  Yey!!  I patched the $.ajax call to use the built-in JSON object to parse the incoming text if available, which is much faster than the standard method.
+
+* Need to give some sort of 'loading' feedback.  Maybe some sort of effect on the canvas?
+
+* Use mbleigh's twitter-auth for User management
+
+* cursor preview, and feedback for opacity and diameter
+
+* save to S3
+
+* save canvas directly to PNG?  what does the browser security model look like for this?
+
+* thumbnails -- gather the pixels from canvas, and submit that in the 'save' post
+
+* import background photos, from Flickr, for example?
+
+* import directly from SketchFu URL?
+
+* seriously in need of performance improvements
+
+* exception handling is currently very poor -- need to check for empty string names, etc.

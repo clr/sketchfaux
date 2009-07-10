@@ -1,0 +1,13 @@
+.sketchfaux
+:javascript
+  $( function(){
+    $( 'div.sketchfaux' ).sketchfaux( '#{ Sketch.url_for( params[:sketch] ) }' );
+  } );
+.sketches
+  %span 
+    Last 10 sketches.
+  %ul
+    -Sketch.find_all[ 0, 10 ].each do |sketch|
+      %li
+        %a{ :href => "/?sketch=#{ sketch }" }= sketch
+

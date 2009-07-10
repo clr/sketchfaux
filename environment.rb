@@ -10,11 +10,12 @@ require 'sinatra' unless defined?(Sinatra)
 
 configure do
   SiteConfig = OpenStruct.new(
-                 :title => 'Your Application Name',
-                 :author => 'Your Name',
-                 :url_base => 'http://localhost:4567/'
+                 :title => 'SketchFaux',
+                 :author => 'Casey Rosenthal',
+                 :url_base => 'http://sketchfaux.phoney.biz/',
+                 :root => File.dirname( __FILE__ )
                )
-
+  
   DataMapper.setup(:default, "sqlite3:///#{File.expand_path(File.dirname(__FILE__))}/#{Sinatra::Base.environment}.db")
 
   # load models

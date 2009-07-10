@@ -13,10 +13,16 @@ error do
 end
 
 helpers do
-  # add your helpers here
 end
 
 # root page
 get '/' do
-  haml :root
+  haml :index
+end
+
+post '/' do
+  if( params[:sketch] && params[:sketch][:data] && params[:sketch][:name] )
+    Sketch.create( params[:sketch] )
+    redirect '/'
+  end
 end

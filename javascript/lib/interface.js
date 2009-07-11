@@ -333,12 +333,12 @@ Interface.method( 'generateDataFromUrl', function(){
         that.data = json;
         that.getPlayer().play();
       },
-      dataFilter: function(data) {
-        if (typeof (JSON) !== 'undefined' && 
-            typeof (JSON.parse) === 'function')
-          return JSON.parse(data);
-        else
-          return eval('(' + data + ')');
+      dataFilter: function( data ) {
+        if( typeof( JSON ) !== 'undefined' && typeof( JSON.parse ) === 'function' ){ 
+          return JSON.parse( data );
+        } else {
+          return $.secureEvalJSON( data );
+        }
       }
     });
   }

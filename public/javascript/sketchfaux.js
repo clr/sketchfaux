@@ -5,7 +5,7 @@
  * Dual licensed under the MIT (MIT-LICENSE.txt)
  * and GPL (GPL-LICENSE.txt) licenses.
  *
- * $Date: 2009-07-10 Fri Jul 10 18:16:22 -0400 2009 $
+ * $Date: 2009-07-11 Sat Jul 11 15:58:27 -0400 2009 $
  * $Rev: 1 more than last time $
  */
  
@@ -502,12 +502,12 @@ Interface.method( 'generateDataFromUrl', function(){
         that.data = json;
         that.getPlayer().play();
       },
-      dataFilter: function(data) {
-        if (typeof (JSON) !== 'undefined' && 
-            typeof (JSON.parse) === 'function')
-          return JSON.parse(data);
-        else
-          return eval('(' + data + ')');
+      dataFilter: function( data ) {
+        if( typeof( JSON ) !== 'undefined' && typeof( JSON.parse ) === 'function' ){ 
+          return JSON.parse( data );
+        } else {
+          return $.secureEvalJSON( data );
+        }
       }
     });
   }

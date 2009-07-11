@@ -91,26 +91,26 @@ namespace :sketchfu do
     require 'xml'
     Dir.glob( File.join( 'doc', '*.xml' ) ).each do |file|
       File.open( File.join( 'public', 'sketches', File.basename( file, '.xml' ) + '.json' ), 'wb') do |f|
-        f.write( "{ l: [" );
+        f.write( "{\"l\": [" );
         parser = XML::Parser.file( file )
         doc = parser.parse
         lines = doc.find( '//line' )
-        lines.each do |line|
-          f.write( "{ " );
-          f.write( "s: {" );
-          f.write( " c: '##{ line.attributes['c'].to_i.to_s( 16 ) }'," );
-          f.write( " o: #{ line.attributes['o'].to_f / 100 }," );
-          f.write( " d: #{ line.attributes['t'].to_i } " );
+        lines.each_with_index do |line, i|
+          f.write( "{" );
+          f.write( "\"s\": {" );
+          f.write( "\"c\": \"##{ line.attributes['c'].to_i.to_s( 16 ) }\", " );
+          f.write( "\"o\": #{ line.attributes['o'].to_f / 100 }, " );
+          f.write( "\"d\": #{ line.attributes['t'].to_i } " );
           f.write( "}, " );
-          f.write( "p: [" );
+          f.write( "\"p\": [" );
           points = line.find( 'p' )
-          points.each do |point|
-            f.write( " [ #{ point.attributes['x'].to_f.round }, #{ point.attributes['y'].to_f.round } ]#{ points.last != point ? ',' : '' }" );
+          points.each_with_index do |point, j|
+            f.write( "[#{ point.attributes['x'].to_f.round }, #{ point.attributes['y'].to_f.round }]#{ ( j + 1 ) == points.length ? '' : ', ' }" );
           end
-          f.write( " ] " );
-          f.write( "}#{ lines.last != line ? ',' : '' }" );
+          f.write( "]" );
+          f.write( "}#{ ( i + 1 ) == lines.length ? '' : ', ' }" );
         end
-        f.write( "] }" );
+        f.write( "]}" );
       end
     end
   end

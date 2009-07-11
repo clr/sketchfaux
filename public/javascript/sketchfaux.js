@@ -1,11 +1,11 @@
 /*
- * sketchfaux 0.4.71 - SketchFaux Drawing Canvas
+ * sketchfaux 0.7.59 - SketchFaux Drawing Canvas
  *
  * Copyright (c) 2009 Casey Rosenthal (github.net/clr)
  * Dual licensed under the MIT (MIT-LICENSE.txt)
  * and GPL (GPL-LICENSE.txt) licenses.
  *
- * $Date: 2009-07-11 Sat Jul 11 15:58:27 -0400 2009 $
+ * $Date: 2009-07-11 Sat Jul 11 18:02:58 -0400 2009 $
  * $Rev: 1 more than last time $
  */
  
@@ -218,6 +218,8 @@ Interface = function( context, url ){
   /*  Mouse Down  */
   this.getCanvasHolder().mousedown( function( mouseEvent ){
     var coordinates = that.normalizeCoordinates( mouseEvent, this );
+    // Stop any playback, if it's going on.
+    that.stop.trigger( 'click' );
     // Put the pencil on the canvas.
     that.pencilDown();
     // Create a line in the JSON data structure.
@@ -500,7 +502,7 @@ Interface.method( 'generateDataFromUrl', function(){
       url: that.url,
       success: function( json ){
         that.data = json;
-        that.getPlayer().play();
+        that.replay.trigger( 'click' );
       },
       dataFilter: function( data ) {
         if( typeof( JSON ) !== 'undefined' && typeof( JSON.parse ) === 'function' ){ 

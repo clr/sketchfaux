@@ -2,3 +2,11 @@
 
 Because SketchFoo is awesome, and we're a bunch of phoneys.
 
+Demo app is here:
+http://sketchfaux.phoney.biz
+
+JS tests are here:
+http://sketchfaux.phoney.biz/javascript/test/
+
+RSpec tests are in the usual:
+`rake spec`

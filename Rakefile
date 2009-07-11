@@ -52,7 +52,7 @@ end
 def license
   return <<-LICENSE
 /*
- * sketchfaux 0.4.71 - SketchFaux Drawing Canvas
+ * sketchfaux 0.7.59 - SketchFaux Drawing Canvas
  *
  * Copyright (c) 2009 Casey Rosenthal (github.net/clr)
  * Dual licensed under the MIT (MIT-LICENSE.txt)
@@ -71,7 +71,7 @@ namespace :javascript do
   task :join do
     all_scripts = license
     javascript_files.each do |file|
-      all_scripts << File.read( File.join( 'javascript', 'lib', file ) )
+      all_scripts << File.read( File.join( 'public', 'javascript', 'src', file ) )
     end
     File.open( File.join( 'public', 'javascript', 'sketchfaux.js' ), 'wb'){ |f| f.write( all_scripts ) }
   end
@@ -119,7 +119,14 @@ end
 
 begin
   require "vlad"
-  Vlad.load(:app => nil, :scm => "git")
+  Vlad.load( :app => nil, :scm => "git" )
 rescue LoadError
   # do nothing
+end
+
+namespace :vlad do
+  desc 'Restart Passenger'
+  remote_task :start_app, :roles => :app do
+    run "touch #{current_release}/tmp/restart.txt"
+  end
 end

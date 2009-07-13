@@ -106,6 +106,10 @@ Canvas.method( 'getScratchCanvasElement', function(){
   return this.scratchCanvasElement;
 });
 
+Canvas.method( 'getThumbnail', function(){
+  return this.getCanvasElement().toDataURL().replace( /^data:image\/png;base64,/, '' );
+});
+
 // We initialize the canvas as we see it onload with this command.
 Canvas.method( 'cleanSlate', function(){
   this.getCanvasElement().setAttribute( 'width', this.width );

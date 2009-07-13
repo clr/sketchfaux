@@ -5,7 +5,7 @@
  * Dual licensed under the MIT (MIT-LICENSE.txt)
  * and GPL (GPL-LICENSE.txt) licenses.
  *
- * $Date: 2009-07-11 Sat Jul 11 18:02:58 -0400 2009 $
+ * $Date: 2009-07-13 Mon Jul 13 14:05:01 -0400 2009 $
  * $Rev: 1 more than last time $
  */
  
@@ -485,7 +485,8 @@ Interface.method( 'save', function(){
     url: '/',
     data: {
       'sketch[name]': $( "#sketch_name" )[0].value,
-      'sketch[data]': $.toJSON( that.getData() )
+      'sketch[data]': $.toJSON( that.getData() ),
+      'sketch[thumbnail]': that.getCanvas().getThumbnail()
     },
     success: function( json ){
       alert( 'Sketch has been saved.' );
@@ -505,7 +506,7 @@ Interface.method( 'generateDataFromUrl', function(){
         that.replay.trigger( 'click' );
       },
       dataFilter: function( data ) {
-        if( typeof( JSON ) !== 'undefined' && typeof( JSON.parse ) === 'function' ){ 
+        if( ( typeof( JSON ) !== 'undefined' ) && ( typeof( JSON.parse ) === 'function' ) ){ 
           return JSON.parse( data );
         } else {
           return $.secureEvalJSON( data );
@@ -751,6 +752,10 @@ Canvas.method( 'setScratchCanvasElement', function( scratchCanvasElement ){
 
 Canvas.method( 'getScratchCanvasElement', function(){
   return this.scratchCanvasElement;
+});
+
+Canvas.method( 'getThumbnail', function(){
+  return this.getCanvasElement().toDataURL().replace( /^data:image\/png;base64,/, '' );
 });
 
 // We initialize the canvas as we see it onload with this command.

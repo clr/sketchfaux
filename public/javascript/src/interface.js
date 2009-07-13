@@ -316,7 +316,8 @@ Interface.method( 'save', function(){
     url: '/',
     data: {
       'sketch[name]': $( "#sketch_name" )[0].value,
-      'sketch[data]': $.toJSON( that.getData() )
+      'sketch[data]': $.toJSON( that.getData() ),
+      'sketch[thumbnail]': that.getCanvas().getThumbnail()
     },
     success: function( json ){
       alert( 'Sketch has been saved.' );

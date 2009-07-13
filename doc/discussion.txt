@@ -1,6 +1,6 @@
-* talked to Corey Haines about js testing yesterday, and he pointed out some magic being done with ScrewUnit combined with env.js; I'm convinced/excited; will use http://github.com/nkallen/screw-unit/tree/master for the forseeable future rather than QUnit.
+* Talked to Corey Haines about js testing yesterday, and he pointed out some magic being done with ScrewUnit combined with env.js; I'm convinced/excited; will use http://github.com/nkallen/screw-unit/tree/master for the forseeable future rather than QUnit.
 
-* need to set up an event pool to control the 'disabled' state of buttons like 'undo' and 'stop'.
+* Need to set up an event pool to control the 'disabled' state of buttons like 'undo' and 'stop'.
 
 * I added the latest jQuery, and am converting the prototype from XUL to HTML.
 
@@ -10,22 +10,24 @@
 
 * Need to give some sort of 'loading' feedback.  Maybe some sort of effect on the canvas?
 
-* Use mbleigh's twitter-auth for User management
+* Use mbleigh's twitter-auth for User management?
 
-* cursor preview, and feedback for opacity and diameter
+* Need some sort of cursor preview, and feedback for opacity and diameter
 
-* save to S3
+* Save to S3?
 
 * save canvas directly to PNG?  what does the browser security model look like for this?
 
 * thumbnails -- gather the pixels from canvas, and submit that in the 'save' post
 
-* import background photos, from Flickr, for example?
+* Import background photos, from Flickr, for example?
 
-* import directly from SketchFu URL?
+* Import directly from SketchFu URL?
 
-* seriously in need of performance improvements
+* Seriously in need of performance improvements.
 
-* exception handling is currently very poor -- need to check for empty string names, etc.
+* Exception handling is currently very poor -- need to check for empty string names, negative tests, etc.
 
-* tag images and record inheritance 
+* Tag images and record inheritance.
+
+* Mouse movement artifacts -- need to bind on mouseout, mousein while pen is down.

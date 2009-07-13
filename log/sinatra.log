@@ -1689,3 +1689,581 @@ SyntaxError - compile error
 127.0.0.1 - - [11/Jul/2009 19:16:39] "GET /javascript/lib/vendor/colorpicker/js/eye.js " 404 18 0.0008
 127.0.0.1 - - [11/Jul/2009 19:16:39] "GET /javascript/lib/vendor/colorpicker/js/utils.js " 404 18 0.0009
 127.0.0.1 - - [11/Jul/2009 19:16:39] "GET /javascript/test/testnavigation.js " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 21:01:32] "GET / " 200 2001 0.0982
+127.0.0.1 - - [11/Jul/2009 21:01:38] "GET /css/ui.accordion.css " 404 18 0.0011
+127.0.0.1 - - [11/Jul/2009 21:01:38] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 21:01:38] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 21:01:38] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 21:01:38] "GET /css/ui.resizable.css " 404 18 0.0013
+127.0.0.1 - - [11/Jul/2009 21:01:39] "GET /css/ui.progressbar.css " 404 18 0.0011
+127.0.0.1 - - [11/Jul/2009 21:01:53] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0013
+127.0.0.1 - - [11/Jul/2009 21:01:55] "GET /favicon.ico " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 21:01:58] "GET /favicon.ico " 404 18 0.0022
+127.0.0.1 - - [11/Jul/2009 21:01:59] "GET /favicon.ico " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:30:27] "GET / " 200 2001 0.0161
+127.0.0.1 - - [11/Jul/2009 23:30:27] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:30:27] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:30:27] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:30:27] "GET /css/ui.progressbar.css " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:30:27] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:30:27] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:30:28] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:46:01] "GET / " 200 2001 0.0082
+127.0.0.1 - - [11/Jul/2009 23:46:01] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:46:01] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:46:01] "GET /css/ui.dialog.css " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:46:01] "GET /css/ui.progressbar.css " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:46:01] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:46:01] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:46:01] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:46:06] "GET /?sketch=foggy_winter_day " 200 2032 0.0117
+127.0.0.1 - - [11/Jul/2009 23:46:06] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:46:07] "GET /css/ui.dialog.css " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:46:07] "GET /css/ui.datepicker.css " 404 18 0.0012
+127.0.0.1 - - [11/Jul/2009 23:46:07] "GET /css/ui.progressbar.css " 404 18 0.0012
+127.0.0.1 - - [11/Jul/2009 23:46:08] "GET /css/ui.resizable.css " 404 18 0.0012
+127.0.0.1 - - [11/Jul/2009 23:46:09] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:46:09] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:46:24] "POST / " 302 - 1.3125
+127.0.0.1 - - [11/Jul/2009 23:46:24] "GET / " 200 2073 0.0090
+127.0.0.1 - - [11/Jul/2009 23:46:39] "GET /?sketch=foggy_winter_day " 200 2104 0.0106
+127.0.0.1 - - [11/Jul/2009 23:46:39] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:46:39] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:46:39] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:46:39] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:46:39] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:46:39] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:46:39] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:47:35] "GET /?sketch=foggy_winter_day " 200 2104 0.0087
+127.0.0.1 - - [11/Jul/2009 23:47:35] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:47:35] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:47:35] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:47:35] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:47:35] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:47:35] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:47:36] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:47:51] "GET /?sketch=foggy_winter_day " 200 2104 0.0078
+127.0.0.1 - - [11/Jul/2009 23:49:37] "GET /?sketch=foggy_winter_day " 200 2104 0.0169
+127.0.0.1 - - [11/Jul/2009 23:49:37] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [11/Jul/2009 23:49:37] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:49:37] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:49:37] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:49:37] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:49:37] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:49:37] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+127.0.0.1 - - [11/Jul/2009 23:49:50] "GET /?sketch=foggy_winter_day " 200 2104 0.0097
+127.0.0.1 - - [11/Jul/2009 23:49:51] "POST / " 302 - 1.3518
+127.0.0.1 - - [11/Jul/2009 23:49:51] "GET / " 200 2073 0.0093
+127.0.0.1 - - [12/Jul/2009 13:54:53] "GET /?sketch=foggy_winter_day " 200 2104 0.1407
+127.0.0.1 - - [12/Jul/2009 13:55:04] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:38:08] "GET / " 200 2073 0.0088
+127.0.0.1 - - [12/Jul/2009 14:38:08] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:38:08] "GET /css/ui.dialog.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:38:08] "GET /css/ui.progressbar.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:38:08] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:38:08] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:38:08] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:38:08] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:39:11] "POST / " 302 - 0.0267
+127.0.0.1 - - [12/Jul/2009 14:39:12] "GET / " 200 2149 0.0086
+127.0.0.1 - - [12/Jul/2009 14:39:19] "GET / " 200 2149 0.0107
+127.0.0.1 - - [12/Jul/2009 14:39:19] "GET /css/ui.accordion.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:39:19] "GET /css/ui.datepicker.css " 404 18 0.0008
+127.0.0.1 - - [12/Jul/2009 14:39:19] "GET /css/ui.dialog.css " 404 18 0.0008
+127.0.0.1 - - [12/Jul/2009 14:39:20] "GET /css/ui.progressbar.css " 404 18 0.0008
+127.0.0.1 - - [12/Jul/2009 14:39:20] "GET /css/ui.resizable.css " 404 18 0.0008
+127.0.0.1 - - [12/Jul/2009 14:39:20] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:39:20] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0008
+127.0.0.1 - - [12/Jul/2009 14:39:35] "POST / " 302 - 0.0012
+127.0.0.1 - - [12/Jul/2009 14:39:35] "GET / " 200 2149 0.0077
+127.0.0.1 - - [12/Jul/2009 14:41:05] "GET / " 200 2149 0.0216
+127.0.0.1 - - [12/Jul/2009 14:41:06] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:41:06] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:41:06] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:41:06] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:41:06] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:41:06] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:41:06] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0008
+127.0.0.1 - - [12/Jul/2009 14:41:21] "POST / " 302 - 0.0325
+127.0.0.1 - - [12/Jul/2009 14:41:21] "GET / " 200 2225 0.0077
+127.0.0.1 - - [12/Jul/2009 14:42:34] "GET / " 200 2225 0.0082
+127.0.0.1 - - [12/Jul/2009 14:43:14] "GET / " 200 2225 0.0217
+127.0.0.1 - - [12/Jul/2009 14:43:14] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:43:14] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:15] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:15] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:15] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:15] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:15] "GET / " 200 2225 0.0139
+127.0.0.1 - - [12/Jul/2009 14:43:15] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:15] "GET /css/ui.accordion.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:15] "GET /css/ui.datepicker.css " 404 18 0.0008
+127.0.0.1 - - [12/Jul/2009 14:43:15] "GET /css/ui.dialog.css " 404 18 0.0008
+127.0.0.1 - - [12/Jul/2009 14:43:15] "GET /css/ui.progressbar.css " 404 18 0.0008
+127.0.0.1 - - [12/Jul/2009 14:43:15] "GET /css/ui.resizable.css " 404 18 0.0008
+127.0.0.1 - - [12/Jul/2009 14:43:15] "GET /css/ui.tabs.css " 404 18 0.0008
+127.0.0.1 - - [12/Jul/2009 14:43:16] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:19] "GET / " 200 2225 0.0104
+127.0.0.1 - - [12/Jul/2009 14:43:20] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:43:20] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:20] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:20] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:20] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:20] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:43:20] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:43:32] "GET / " 200 2225 0.0128
+127.0.0.1 - - [12/Jul/2009 14:43:32] "GET / " 200 2225 0.0091
+127.0.0.1 - - [12/Jul/2009 14:43:33] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:43:33] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:43:33] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:33] "GET /css/ui.progressbar.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:43:33] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:33] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:43:33] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:43:34] "GET / " 200 2225 0.0152
+127.0.0.1 - - [12/Jul/2009 14:43:35] "GET / " 200 2225 0.0089
+127.0.0.1 - - [12/Jul/2009 14:43:35] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:43:35] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:35] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:35] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:35] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 14:43:35] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:43:35] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 14:43:45] "POST / " 302 - 0.0012
+127.0.0.1 - - [12/Jul/2009 14:43:45] "GET / " 200 2225 0.0452
+127.0.0.1 - - [12/Jul/2009 15:06:18] "GET / " 200 2225 0.0086
+127.0.0.1 - - [12/Jul/2009 15:06:18] "GET /css/ui.accordion.css " 404 18 0.0011
+127.0.0.1 - - [12/Jul/2009 15:06:18] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:06:18] "GET /css/ui.dialog.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:06:18] "GET /css/ui.progressbar.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:06:18] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:06:18] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:06:18] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:07:00] "POST / " 302 - 0.0291
+127.0.0.1 - - [12/Jul/2009 15:07:00] "GET / " 200 2225 0.0109
+127.0.0.1 - - [12/Jul/2009 15:11:02] "GET /test/player.qunit " 404 18 0.0022
+127.0.0.1 - - [12/Jul/2009 15:11:11] "GET /javascript/lib/vendor/colorpicker/js/colorpicker.js " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:11:12] "GET /javascript/lib/vendor/colorpicker/js/utils.js " 404 18 0.0008
+127.0.0.1 - - [12/Jul/2009 15:11:12] "GET /javascript/test/testnavigation.js " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:11:12] "GET /javascript/lib/vendor/colorpicker/js/eye.js " 404 18 0.0011
+127.0.0.1 - - [12/Jul/2009 15:11:12] "GET /javascript/lib/vendor/colorpicker/js/colorpicker.js " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 15:11:12] "GET /javascript/lib/vendor/colorpicker/js/eye.js " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:11:12] "GET /javascript/lib/vendor/colorpicker/js/utils.js " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 15:11:12] "GET /javascript/test/testnavigation.js " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:11:16] "GET /javascript/lib/vendor/colorpicker/js/colorpicker.js " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:11:16] "GET /javascript/lib/vendor/colorpicker/js/eye.js " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:11:16] "GET /javascript/lib/vendor/colorpicker/js/utils.js " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:11:16] "GET /javascript/test/testnavigation.js " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:11:16] "GET /javascript/lib/vendor/colorpicker/js/colorpicker.js " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:11:16] "GET /javascript/lib/vendor/colorpicker/js/eye.js " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 15:11:16] "GET /javascript/lib/vendor/colorpicker/js/utils.js " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 15:11:16] "GET /javascript/test/testnavigation.js " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 15:11:48] "GET /javascript/lib/vendor/colorpicker/js/colorpicker.js " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 15:11:48] "GET /javascript/lib/vendor/colorpicker/js/eye.js " 404 18 0.0008
+127.0.0.1 - - [12/Jul/2009 15:11:48] "GET /javascript/lib/vendor/colorpicker/js/utils.js " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 15:11:48] "GET /javascript/test/testnavigation.js " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:11:48] "GET /javascript/lib/vendor/colorpicker/js/colorpicker.js " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:11:48] "GET /javascript/lib/vendor/colorpicker/js/eye.js " 404 18 0.0009
+127.0.0.1 - - [12/Jul/2009 15:11:48] "GET /javascript/lib/vendor/colorpicker/js/utils.js " 404 18 0.0010
+127.0.0.1 - - [12/Jul/2009 15:11:48] "GET /javascript/test/testnavigation.js " 404 18 0.0010
+./lib/sketch.rb:4:in `encode64': encode64 is deprecated; use Base64.encode64 instead
+127.0.0.1 - - [13/Jul/2009 00:51:15] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0012
+127.0.0.1 - - [13/Jul/2009 00:51:22] "GET /favicon.ico " 404 18 0.0022
+127.0.0.1 - - [13/Jul/2009 00:51:51] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+./lib/sketch.rb:4:in `encode64': encode64 is deprecated; use Base64.encode64 instead
+127.0.0.1 - - [13/Jul/2009 01:06:30] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0011
+127.0.0.1 - - [13/Jul/2009 01:06:35] "GET /favicon.ico " 404 18 0.0009
+./lib/sketch.rb:4:in `encode64': encode64 is deprecated; use Base64.encode64 instead
+127.0.0.1 - - [13/Jul/2009 12:20:44] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0014
+127.0.0.1 - - [13/Jul/2009 12:20:53] "GET /favicon.ico " 404 18 0.0023
+Haml::SyntaxError - Illegal nesting: nesting within plain text is illegal.:
+ views/index.haml:13
+ application.rb:20:in `GET /'./views/index.haml:13
+/usr/lib/ruby/gems/1.8/gems/haml-2.2.0/lib/haml/precompiler.rb:311:in `push_plain'
+/usr/lib/ruby/gems/1.8/gems/haml-2.2.0/lib/haml/precompiler.rb:245:in `process_line'
+/usr/lib/ruby/gems/1.8/gems/haml-2.2.0/lib/haml/precompiler.rb:168:in `precompile'
+/usr/lib/ruby/gems/1.8/gems/haml-2.2.0/lib/haml/engine.rb:112:in `initialize'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:323:in `new'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:323:in `render_haml'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:265:in `__send__'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:265:in `render'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/compat.rb:131:in `render'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:234:in `haml'
+./application.rb:20:in `GET /'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:779:in `call'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:779:in `route'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:474:in `instance_eval'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:474:in `route_eval'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:463:in `route!'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:460:in `catch'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:460:in `route!'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:439:in `each'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:439:in `route!'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:555:in `dispatch!'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:375:in `call!'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:522:in `instance_eval'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:522:in `invoke'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:522:in `catch'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:522:in `invoke'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/compat.rb:138:in `invoke'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:375:in `call!'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:364:in `call'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/vendor/rack-1.0.0-git/lib/rack/methodoverride.rb:24:in `call'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/vendor/rack-1.0.0-git/lib/rack/commonlogger.rb:18:in `call'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:898:in `call'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:943:in `synchronize'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:898:in `call'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/rack/application_spawner.rb:118:in `run'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/rack/application_spawner.rb:69:in `spawn_application'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/utils.rb:182:in `safe_fork'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/rack/application_spawner.rb:62:in `spawn_application'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/rack/application_spawner.rb:45:in `spawn_application'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/spawn_manager.rb:158:in `spawn_application'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/bin/passenger-spawn-server:61
+127.0.0.1 - - [13/Jul/2009 13:59:35] "GET / " 500 17 0.0030
+127.0.0.1 - - [13/Jul/2009 14:00:28] "GET / " 200 2225 0.0095
+127.0.0.1 - - [13/Jul/2009 14:00:28] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:00:28] "GET /css/ui.dialog.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:00:28] "GET /css/ui.progressbar.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:00:28] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:00:28] "GET /css/ui.accordion.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:00:28] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:00:29] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:00:38] "GET /?sketch=mountains " 200 2249 0.0095
+127.0.0.1 - - [13/Jul/2009 14:00:38] "GET /css/ui.accordion.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:00:38] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:00:38] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:00:38] "GET /css/ui.progressbar.css " 404 18 0.0008
+127.0.0.1 - - [13/Jul/2009 14:00:38] "GET /css/ui.resizable.css " 404 18 0.0008
+127.0.0.1 - - [13/Jul/2009 14:00:38] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:00:38] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:01:08] "POST / " 302 - 1.0385
+127.0.0.1 - - [13/Jul/2009 14:01:08] "GET / " 200 2338 0.0092
+127.0.0.1 - - [13/Jul/2009 14:01:12] "GET /?sketch=mountains " 200 2362 0.0096
+127.0.0.1 - - [13/Jul/2009 14:01:12] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:01:12] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:01:12] "GET /css/ui.dialog.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:01:12] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:01:12] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:01:12] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:01:13] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:01:29] "GET /?sketch=mountains " 200 2362 0.0090
+127.0.0.1 - - [13/Jul/2009 14:03:49] "GET /?sketch=mountains " 200 2362 0.0083
+127.0.0.1 - - [13/Jul/2009 14:04:05] "POST / " 302 - 1.0289
+127.0.0.1 - - [13/Jul/2009 14:04:05] "GET / " 200 2338 0.0092
+127.0.0.1 - - [13/Jul/2009 14:05:03] "GET /?sketch=mountains " 200 2362 0.0093
+127.0.0.1 - - [13/Jul/2009 14:05:04] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:05:04] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:05:04] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:05:04] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:05:04] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:05:04] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:05:04] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:05:43] "POST / " 302 - 1.0179
+127.0.0.1 - - [13/Jul/2009 14:05:43] "GET / " 200 2338 0.0091
+127.0.0.1 - - [13/Jul/2009 14:05:49] "GET / " 200 2338 0.0095
+127.0.0.1 - - [13/Jul/2009 14:05:49] "GET /css/ui.accordion.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:05:49] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:05:49] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:05:49] "GET /css/ui.progressbar.css " 404 18 0.0008
+127.0.0.1 - - [13/Jul/2009 14:05:49] "GET /css/ui.resizable.css " 404 18 0.0008
+127.0.0.1 - - [13/Jul/2009 14:05:49] "GET /css/ui.tabs.css " 404 18 0.0008
+127.0.0.1 - - [13/Jul/2009 14:05:50] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:06:03] "GET / " 200 2338 0.0091
+127.0.0.1 - - [13/Jul/2009 14:07:16] "GET / " 200 2338 0.0106
+127.0.0.1 - - [13/Jul/2009 14:07:16] "GET /css/ui.accordion.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:07:16] "GET /css/ui.datepicker.css " 404 18 0.0008
+127.0.0.1 - - [13/Jul/2009 14:07:16] "GET /css/ui.dialog.css " 404 18 0.0008
+127.0.0.1 - - [13/Jul/2009 14:07:16] "GET /css/ui.progressbar.css " 404 18 0.0008
+127.0.0.1 - - [13/Jul/2009 14:07:16] "GET /css/ui.resizable.css " 404 18 0.0008
+127.0.0.1 - - [13/Jul/2009 14:07:16] "GET /css/ui.tabs.css " 404 18 0.0008
+127.0.0.1 - - [13/Jul/2009 14:07:16] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:07:17] "GET / " 200 2338 0.0094
+127.0.0.1 - - [13/Jul/2009 14:07:56] "GET / " 200 2338 0.0097
+127.0.0.1 - - [13/Jul/2009 14:07:57] "GET /css/ui.accordion.css " 404 18 0.0011
+127.0.0.1 - - [13/Jul/2009 14:07:57] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:07:57] "GET /css/ui.dialog.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:07:57] "GET /css/ui.progressbar.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:07:57] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:07:57] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:07:57] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 14:08:37] "GET / " 200 2249 0.0140
+127.0.0.1 - - [13/Jul/2009 14:08:37] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:08:37] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:08:37] "GET /css/ui.dialog.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:08:37] "GET /css/ui.progressbar.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:08:37] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:08:37] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 14:08:37] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:05:06] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:29:34] "GET / " 200 2249 0.1089
+127.0.0.1 - - [13/Jul/2009 16:29:34] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:29:34] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:29:34] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:29:34] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:29:35] "GET /css/ui.progressbar.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:29:35] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:29:35] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:30:18] "GET / " 200 2249 0.0091
+127.0.0.1 - - [13/Jul/2009 16:32:26] "GET / " 200 2249 0.0313
+127.0.0.1 - - [13/Jul/2009 16:32:26] "GET /css/ui.accordion.css " 404 18 0.0011
+127.0.0.1 - - [13/Jul/2009 16:32:26] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:32:26] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:32:26] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:32:26] "GET /css/ui.resizable.css " 404 18 0.0012
+127.0.0.1 - - [13/Jul/2009 16:32:26] "GET /css/ui.tabs.css " 404 18 0.0012
+127.0.0.1 - - [13/Jul/2009 16:32:26] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+Haml::SyntaxError - Illegal nesting: nesting within plain text is illegal.:
+ views/index.haml:13
+ application.rb:20:in `GET /'./views/index.haml:13
+/usr/lib/ruby/gems/1.8/gems/haml-2.2.0/lib/haml/precompiler.rb:311:in `push_plain'
+/usr/lib/ruby/gems/1.8/gems/haml-2.2.0/lib/haml/precompiler.rb:245:in `process_line'
+/usr/lib/ruby/gems/1.8/gems/haml-2.2.0/lib/haml/precompiler.rb:168:in `precompile'
+/usr/lib/ruby/gems/1.8/gems/haml-2.2.0/lib/haml/engine.rb:112:in `initialize'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:323:in `new'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:323:in `render_haml'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:265:in `__send__'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:265:in `render'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/compat.rb:131:in `render'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:234:in `haml'
+./application.rb:20:in `GET /'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:779:in `call'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:779:in `route'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:474:in `instance_eval'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:474:in `route_eval'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:463:in `route!'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:460:in `catch'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:460:in `route!'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:439:in `each'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:439:in `route!'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:555:in `dispatch!'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:375:in `call!'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:522:in `instance_eval'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:522:in `invoke'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:522:in `catch'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:522:in `invoke'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/compat.rb:138:in `invoke'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:375:in `call!'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:364:in `call'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/vendor/rack-1.0.0-git/lib/rack/methodoverride.rb:24:in `call'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/vendor/rack-1.0.0-git/lib/rack/commonlogger.rb:18:in `call'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:898:in `call'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:943:in `synchronize'
+/usr/lib/ruby/gems/1.8/gems/sinatra-0.9.2/lib/sinatra/base.rb:898:in `call'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/rack/request_handler.rb:91:in `process_request'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/abstract_request_handler.rb:206:in `main_loop'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/rack/application_spawner.rb:118:in `run'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/rack/application_spawner.rb:69:in `spawn_application'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/utils.rb:182:in `safe_fork'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/rack/application_spawner.rb:62:in `spawn_application'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/rack/application_spawner.rb:45:in `spawn_application'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/spawn_manager.rb:158:in `spawn_application'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/spawn_manager.rb:286:in `handle_spawn_application'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/abstract_server.rb:351:in `__send__'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/abstract_server.rb:351:in `main_loop'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/lib/phusion_passenger/abstract_server.rb:195:in `start_synchronously'
+/usr/lib/ruby/gems/1.8/gems/passenger-2.2.4/bin/passenger-spawn-server:61
+127.0.0.1 - - [13/Jul/2009 16:32:51] "GET / " 500 17 0.0030
+127.0.0.1 - - [13/Jul/2009 16:33:09] "GET / " 200 2450 0.0097
+127.0.0.1 - - [13/Jul/2009 16:33:09] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:33:09] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:33:09] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:33:09] "GET /css/ui.progressbar.css " 404 18 0.0011
+127.0.0.1 - - [13/Jul/2009 16:33:09] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:33:09] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:33:10] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:33:18] "GET / " 200 2450 0.0092
+127.0.0.1 - - [13/Jul/2009 16:36:07] "GET / " 200 2450 0.0094
+127.0.0.1 - - [13/Jul/2009 16:36:08] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:36:08] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:36:08] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:36:08] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:36:08] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:36:08] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:36:08] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:36:21] "GET / " 200 2450 0.0094
+127.0.0.1 - - [13/Jul/2009 16:36:22] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:36:22] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:36:22] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:36:22] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:36:22] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:36:22] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:36:22] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:36:34] "GET / " 200 2450 0.0095
+127.0.0.1 - - [13/Jul/2009 16:36:50] "GET / " 200 2450 0.0187
+127.0.0.1 - - [13/Jul/2009 16:36:50] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:36:50] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:36:50] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:36:50] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:36:50] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:36:50] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:36:50] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:36:51] "GET / " 200 2450 0.0098
+127.0.0.1 - - [13/Jul/2009 16:43:59] "GET / " 200 2450 0.0160
+127.0.0.1 - - [13/Jul/2009 16:44:00] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:44:00] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:44:00] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:44:00] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:44:00] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:44:00] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:44:00] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:49:20] "GET / " 200 2450 0.0140
+127.0.0.1 - - [13/Jul/2009 16:49:20] "GET /css/ui.accordion.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:49:20] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:49:20] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:49:20] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:49:20] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:49:20] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:49:20] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:49:26] "GET / " 200 2450 0.0087
+127.0.0.1 - - [13/Jul/2009 16:53:20] "GET / " 200 2450 0.0245
+127.0.0.1 - - [13/Jul/2009 16:53:20] "GET /css/ui.accordion.css " 404 18 0.0391
+127.0.0.1 - - [13/Jul/2009 16:53:20] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:53:20] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:53:20] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:53:20] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:53:20] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:53:21] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:53:47] "GET / " 200 2450 0.0100
+127.0.0.1 - - [13/Jul/2009 16:53:47] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:53:48] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:53:48] "GET /css/ui.dialog.css " 404 18 0.0027
+127.0.0.1 - - [13/Jul/2009 16:53:48] "GET /css/ui.progressbar.css " 404 18 0.0008
+127.0.0.1 - - [13/Jul/2009 16:53:48] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:53:48] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:53:48] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:54:20] "GET / " 200 2450 0.0243
+127.0.0.1 - - [13/Jul/2009 16:54:21] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:54:21] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:54:21] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:54:21] "GET /css/ui.progressbar.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:54:21] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:54:21] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 16:54:21] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 16:54:30] "GET / " 200 2450 0.0096
+127.0.0.1 - - [13/Jul/2009 17:00:12] "GET / " 200 2450 0.0143
+127.0.0.1 - - [13/Jul/2009 17:00:13] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:00:13] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:00:13] "GET /css/ui.dialog.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:00:13] "GET /css/ui.progressbar.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:00:13] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:00:13] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:00:13] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:00:17] "GET / " 200 2450 0.0097
+127.0.0.1 - - [13/Jul/2009 17:01:22] "GET / " 200 2450 0.0153
+127.0.0.1 - - [13/Jul/2009 17:01:22] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:01:22] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:01:22] "GET /css/ui.dialog.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:01:22] "GET /css/ui.progressbar.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:01:22] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:01:22] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:01:23] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:01:34] "GET / " 200 2450 0.0095
+127.0.0.1 - - [13/Jul/2009 17:02:00] "GET / " 200 2555 0.0243
+127.0.0.1 - - [13/Jul/2009 17:02:00] "GET /css/ui.accordion.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:02:00] "GET /css/ui.datepicker.css " 404 18 0.0008
+127.0.0.1 - - [13/Jul/2009 17:02:00] "GET /css/ui.dialog.css " 404 18 0.0008
+127.0.0.1 - - [13/Jul/2009 17:02:00] "GET /css/ui.progressbar.css " 404 18 0.0008
+127.0.0.1 - - [13/Jul/2009 17:02:00] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:02:00] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:02:01] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:02:01] "GET / " 200 2555 0.0097
+127.0.0.1 - - [13/Jul/2009 17:03:34] "GET / " 200 2555 0.0094
+127.0.0.1 - - [13/Jul/2009 17:03:35] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:03:35] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:03:35] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:03:35] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:03:35] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:03:35] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:03:35] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:03:54] "GET / " 200 2555 0.0091
+127.0.0.1 - - [13/Jul/2009 17:03:55] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:03:55] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:03:55] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:03:55] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:03:55] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:03:55] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:03:55] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:09:14] "GET / " 200 2555 0.0241
+127.0.0.1 - - [13/Jul/2009 17:09:14] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:09:14] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:09:14] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:09:14] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:09:14] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:09:14] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:09:15] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:09:36] "GET / " 200 2555 0.0106
+127.0.0.1 - - [13/Jul/2009 17:09:36] "GET /css/ui.accordion.css " 404 18 0.0012
+127.0.0.1 - - [13/Jul/2009 17:09:36] "GET /css/ui.datepicker.css " 404 18 0.0011
+127.0.0.1 - - [13/Jul/2009 17:09:36] "GET /css/ui.dialog.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:09:36] "GET /css/ui.progressbar.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:09:36] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:09:36] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:09:36] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:09:54] "GET / " 200 2555 0.0136
+127.0.0.1 - - [13/Jul/2009 17:09:54] "GET /css/ui.accordion.css " 404 18 0.0012
+127.0.0.1 - - [13/Jul/2009 17:09:54] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:09:54] "GET /css/ui.dialog.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:09:54] "GET /css/ui.progressbar.css " 404 18 0.0011
+127.0.0.1 - - [13/Jul/2009 17:09:54] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:09:54] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:09:54] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:10:02] "GET / " 200 2571 0.0097
+127.0.0.1 - - [13/Jul/2009 17:10:02] "GET /css/ui.accordion.css " 404 18 0.0011
+127.0.0.1 - - [13/Jul/2009 17:10:02] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:10:02] "GET /css/ui.dialog.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:10:02] "GET /css/ui.progressbar.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:10:02] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:10:02] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:10:02] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:10:49] "GET / " 200 2571 0.0249
+127.0.0.1 - - [13/Jul/2009 17:12:37] "GET / " 200 2571 0.0181
+127.0.0.1 - - [13/Jul/2009 17:12:37] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:12:37] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:12:37] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:12:37] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:12:37] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:12:37] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:12:38] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:12:49] "GET / " 200 2571 0.0095
+127.0.0.1 - - [13/Jul/2009 17:13:21] "GET / " 200 2571 0.0095
+127.0.0.1 - - [13/Jul/2009 17:13:21] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:13:21] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:13:21] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:13:21] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:13:21] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:13:21] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:13:22] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:13:28] "GET / " 200 2571 0.0095
+127.0.0.1 - - [13/Jul/2009 17:14:16] "GET / " 200 2571 0.0257
+127.0.0.1 - - [13/Jul/2009 17:14:16] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:14:16] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:14:16] "GET /css/ui.dialog.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:14:16] "GET /css/ui.progressbar.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:14:16] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:14:16] "GET /css/ui.tabs.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:14:17] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:14:20] "GET / " 200 2571 0.0086
+127.0.0.1 - - [13/Jul/2009 17:15:17] "GET / " 200 2571 0.0242
+127.0.0.1 - - [13/Jul/2009 17:15:17] "GET /css/ui.accordion.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:15:17] "GET /css/ui.datepicker.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:15:17] "GET /css/ui.dialog.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:15:17] "GET /css/ui.progressbar.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:15:17] "GET /css/ui.resizable.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:15:17] "GET /css/ui.tabs.css " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:15:18] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009
+127.0.0.1 - - [13/Jul/2009 17:15:22] "GET / " 200 2571 0.0086
+127.0.0.1 - - [13/Jul/2009 17:15:51] "GET / " 200 2571 0.0086
+127.0.0.1 - - [13/Jul/2009 17:15:51] "GET /css/ui.accordion.css " 404 18 0.0011
+127.0.0.1 - - [13/Jul/2009 17:15:51] "GET /css/ui.datepicker.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:15:51] "GET /css/ui.dialog.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:15:51] "GET /css/ui.progressbar.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:15:51] "GET /css/ui.resizable.css " 404 18 0.0010
+127.0.0.1 - - [13/Jul/2009 17:15:51] "GET /css/ui.tabs.css " 404 18 0.0011
+127.0.0.1 - - [13/Jul/2009 17:15:52] "GET /css/images/ui-bg_flat_75_ffffff_40x100.png " 404 18 0.0009

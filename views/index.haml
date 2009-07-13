@@ -5,9 +5,14 @@
   } );
 .sketches
   %span 
-    Last 10 sketches.
+    Last 5 sketches.
   %ul
-    -Sketch.find_all[ 0, 10 ].each do |sketch|
+    -Sketch.find_all[ 0, 5 ].each do |sketch|
       %li
-        %a{ :href => "/?sketch=#{ sketch }" }= sketch
+        %div
+          -if Sketch.thumbnail_for( sketch )
+            %a{ :href => "/?sketch=#{ sketch }" }
+              %img{ :src => Sketch.thumbnail_for( sketch ) } 
+          %br
+          %a{ :href => "/?sketch=#{ sketch }" }= sketch
 

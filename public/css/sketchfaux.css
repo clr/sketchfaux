@@ -4,7 +4,6 @@ body{
 div.wrapper {
   display: block;
   width: 100%;
-  height: 547px;
 }
 
 .generic_slider {
@@ -39,10 +38,10 @@ div.wrapper {
   cursor: pointer;
 }
 
-div.sketchfaux {
+.sketchfaux {
   display: block;
   position: absolute;
-  top: 122px;
+  top: 27px;
   left: 26px;
 }
 .canvas_holder {
@@ -223,6 +222,8 @@ div.sketchfaux {
 
 
 .sketches {
+  position: absolute;
+  top: 497px;
   display: block;
   width: 100%;
 }
@@ -234,18 +235,44 @@ div.sketchfaux {
 	font-family: Arial, Helvetica, sans-serif;
 }
 .sketches ul {
+  width: 1240px;
+  margin: 0;
 }
 .sketches ul li {
   float: left;
   display: block;
-  width: 15%;
-  padding: 7px 0;
+  width: 14%;
+  margin: 5px 2% 0 0;
+  padding: 1px;
   font-size: 11px;
   font-weight: bold;
 	font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+  text-align: center;
+  vertical-align: middle;
+}
+.sketches ul li div {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 1px solid grey;
+  background-color: black;
+  text-align: center;
+}
+.sketches ul li a img {
+  width: 102px;
+  height: 72px;
+  border: none;
+  padding-top: 13px;
+}
+.sketches ul li a {
+  text-decoration: none;
+  color: #bdbdbd;
 }
 
 .footer {
+  position: absolute;
+  top: 637px;
   display: block;
   width: 100%;
   font-size: 11px;

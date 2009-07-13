@@ -2,8 +2,6 @@
 
 * Need to set up an event pool to control the 'disabled' state of buttons like 'undo' and 'stop'.
 
-* I added the latest jQuery, and am converting the prototype from XUL to HTML.
-
 * Relying on 3rd-party lib/vendor/colorpickers for the colorpicker [ Stefan Petre, www.eyecon.ro ] and for the overall theme inspiration.
 
 * JSON is a native object in Firefox3.5!  Yey!!  I patched the $.ajax call to use the built-in JSON object to parse the incoming text if available, which is much faster than the standard method.
@@ -16,9 +14,9 @@
 
 * Save to S3?
 
-* save canvas directly to PNG?  what does the browser security model look like for this?
+* Save canvas directly to PNG, download to desktop?
 
-* thumbnails -- gather the pixels from canvas, and submit that in the 'save' post
+* To do thumbnails properly, need to create a new canvas, merge old canvas and scratch, and then scale, then send base64 of that.
 
 * Import background photos, from Flickr, for example?
 
